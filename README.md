@@ -9,7 +9,7 @@
 * Requirements: [Android Studio](https://developer.android.com/studio/)[<br />
 * Download repo/clone and import to android studio<br />
 * Alternatively  download/clone repo -> app->release->app-release.apk to access the apk and run on android device
-* Or Download App direclty to Android device and install [Download](https://drive.google.com/open?id=1g6Axcz3ByiHM2C8-4Vbvg-J4ywYge8M7).
+* Or Download App direclty to Android device and install [Download](https://drive.google.com/open?id=1fiY_CoAjGQDk_Ay4_-hGafEmesiLSpPR).
 * **Feel free to fork it😄.**<br /><br />
 
 ![1_Authentication_Activity](https://user-images.githubusercontent.com/37632283/62456604-b73d9f80-b770-11e9-981d-5fe126d095bb.jpeg)
