@@ -11,10 +11,11 @@
 * Or Download App direclty to Android device and install [Download](https://drive.google.com/open?id=1g6Axcz3ByiHM2C8-4Vbvg-J4ywYge8M7).
 * **Feel free to fork it😄.**<br /><br />
 
-![Home Activity](https://user-images.githubusercontent.com/37632283/61205186-4a8e3280-a6e7-11e9-84f0-6139cbd2829b.jpg)
-![2_myProfile](https://user-images.githubusercontent.com/37632283/61205219-642f7a00-a6e7-11e9-859a-a5ead54e111c.jpg)
-![3_About](https://user-images.githubusercontent.com/37632283/61205278-8628fc80-a6e7-11e9-9ed7-eab38326d943.jpg)
-
+![1_Authentication_Activity](https://user-images.githubusercontent.com/37632283/62490449-365ac400-b7c1-11e9-840c-18fa3bb7c390.jpeg)
+![2_SignUp_Activity](https://user-images.githubusercontent.com/37632283/62490456-38bd1e00-b7c1-11e9-93f0-687b158e82f6.jpeg)
+![3_SignUp_Activity](https://user-images.githubusercontent.com/37632283/62490459-3a86e180-b7c1-11e9-9fb8-8b037cd33d67.jpeg)
+![4_User_Activity](https://user-images.githubusercontent.com/37632283/62490461-3bb80e80-b7c1-11e9-9225-ea8961b1232e.jpeg)
+![5_Admin_Activity](https://user-images.githubusercontent.com/37632283/62490469-3e1a6880-b7c1-11e9-9a30-b93c818a2231.jpeg)
 ---
 
 
