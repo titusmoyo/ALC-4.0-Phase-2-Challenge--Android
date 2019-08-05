@@ -3,7 +3,7 @@
 
 #Travelmantics &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/msal4/royal_news/compare?expand=1)
 
-*The source code on **How I solved the ALC 4.0: Phase 1 Challenge- Android
+*The source code on **How I solved the ALC 4.0: Phase 1 Challenge 2- Android As instructed by a tutor
 ** view the [ALC Challenge](https://docs.google.com/document/d/1GsTwCCmG9krpzt0LsSpk6rHzGFfmTxrqLhDWO6veQ2A/preview)*.
 
 * Requirements: [Android Studio](https://developer.android.com/studio/)[<br />
