@@ -13,11 +13,8 @@
 * **Feel free to fork it😄.**<br /><br />
 
 ![1_Authentication_Activity](https://user-images.githubusercontent.com/37632283/62456604-b73d9f80-b770-11e9-981d-5fe126d095bb.jpeg)
-
 ![2_SignUp_Activity](https://user-images.githubusercontent.com/37632283/62456654-d63c3180-b770-11e9-9d37-2ff805484458.jpeg)
-
 ![3_SignUp_Activity](https://user-images.githubusercontent.com/37632283/62456658-d89e8b80-b770-11e9-8696-e23cc2b908eb.jpeg)
-
 ![4_User_Activity](https://user-images.githubusercontent.com/37632283/62456667-df2d0300-b770-11e9-9143-e894b9fa33c1.jpeg)
 ![5_Admin_Activity](https://user-images.githubusercontent.com/37632283/62456672-e05e3000-b770-11e9-93db-17d4cb133911.jpeg)
 
