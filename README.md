@@ -25,5 +25,5 @@ default
 ---
 
 ***This App tries to attempt the following question and plus more added functionality 💙 [ALC 4.0: Phase 1 Challenge_2- Android
-](https://docs.google.com/document/d/1GsTwCCmG9krpzt0LsSpk6rHzGFfmTxrqLhDWO6veQ2A/preview) 💙***
+](https://docs.google.com/document/d/1u2TzroDJj7dMz9KhH3hmYqoYE3SfwqpViB4EILQM_XI/preview) 💙***
 
