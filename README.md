@@ -1,7 +1,7 @@
 "#ALC-4.0-Phase-2-Challenge--Android"
 
 
-#myALC Journey &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/msal4/royal_news/compare?expand=1)
+#Travelmantics &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/msal4/royal_news/compare?expand=1)
 
 *The source code on **How I solved the ALC 4.0: Phase 1 Challenge- Android
 ** view the [ALC Challenge](https://docs.google.com/document/d/1GsTwCCmG9krpzt0LsSpk6rHzGFfmTxrqLhDWO6veQ2A/preview)*.
